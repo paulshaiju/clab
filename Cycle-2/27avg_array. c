@@ -1,0 +1,38 @@
+//program to find the average of 4 number in the array//
+#include<stdio.h>
+int main()
+{
+    int n,i;
+    float a[10],sum=0.0,avg;
+    printf("Enter the limit: ");
+    scanf("%d",&n);
+    printf("Enter the elements:\n");
+    for(i=0;i<n;i++)
+    {
+        scanf("%f",&a[i]);
+    }
+    for(i=0;i<n;i++)
+    {
+        sum=sum+a[i];
+    }
+    avg=sum/n;
+    printf("Average of 4 numbers: %.2f",avg);
+    return 0;
+}
+
+/* OUTPUT
+Enter the limit: 4
+Enter the elements:
+1
+2
+3
+4
+Average of 4 numbers: 2.50
+
+COMPILATION STEP
+gcc avg.c -o avg
+
+EXECUTION STEP
+./avg */
+
+
