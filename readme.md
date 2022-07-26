@@ -4,7 +4,7 @@
 #### 2021 - 2025 A Batch
 ##### June 2022
 ---
-[![](https://img.shields.io/badge/Source-Code-brightgreen)](https://github.com/paulshaiju/clab)
+## [![](https://img.shields.io/badge/Download-Link-brightgreen)](https://github.com/paulshaiju/clab)
 
 [![](https://img.shields.io/badge/Programs%20by-Alwin%20Mathew-orange)](mailto:alwinmathew.cse21@jecc.ac.in)
 
