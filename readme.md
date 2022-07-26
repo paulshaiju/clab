@@ -8,8 +8,10 @@
 
 [![](https://img.shields.io/badge/Programs%20by-Alwin%20Mathew-orange)](mailto:alwinmathew.cse21@jecc.ac.in)
 
+[![](https://img.shields.io/badge/GCC%20%26%20GEANY-Installation%20on%20Windows%20-yellow)](https://github.com/paulshaiju/clab/blob/master/INSTALL_gcc_geany_on_windows.pdf)
+
 ---
-![](https://img.shields.io/badge/Cycle-1-blue)
+[![](https://img.shields.io/badge/Cycle-1-blue)](https://github.com/paulshaiju/clab/tree/master/Cycle-1)
 1. Familiarization of Hardware Components of a Computer
 2. Familiarization of Linux Environment - Linux Basic Commands
 3. Write a C program to find the sum of two integer numbers.
@@ -37,7 +39,7 @@
 25. Write a C program to find the roots of a quadratic equation.
 26. Write a C program to find the sum of the following series up to N terms (2+5+10+17+26+37+...+N)
 ---
-![](https://img.shields.io/badge/Cycle-2-blue)
+[![](https://img.shields.io/badge/Cycle-2-blue)](https://github.com/paulshaiju/clab/tree/master/Cycle-2)
 
 27. Write a C program to find the average of 4 numbers using array.
 28. Write a C program to implement linear search.
@@ -55,7 +57,7 @@
 40. Write a C program to concatenate two strings (using strcat function).
 41. Write a C program to sort a set of words (use string handling functions - strcmp andstrcpy).
 ---
-![](https://img.shields.io/badge/Cycle-3-blue)
+[![](https://img.shields.io/badge/Cycle-3-blue)](https://github.com/paulshaiju/clab/tree/master/Cycle-3)
 
 42. Write a C program to add two numbers using a function.
 43. Write a C program to find the largest of two numbers using function.
@@ -70,7 +72,7 @@
 52. Write a C program to find the sum of the digits of a number using a recursive function.
 53. Write a C program to implement bubble sort using functions.
 ---
-![](https://img.shields.io/badge/Cycle-4-blue)
+[![](https://img.shields.io/badge/Cycle-4-blue)](https://github.com/paulshaiju/clab/tree/master/Cycle-4)
 
 54. Write a C program to store and print student details using structure.
 55. Write a C program to create a structure containing the fields: Name, Price, Quantity, and Total amount. Use separate functions to read and print data.
