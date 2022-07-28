@@ -64,7 +64,7 @@
 44. Write a C program to find the factorial of a number using a function.
 45. Write a C program to find the sum of the digits of a number using a function.
 46. Write a C program using the function to check whether a given number is prime or not.
-47. Write a C program to check whether a given number is Strong or not using a nested function.[main()-->armstrong()-->factorial()]
+47. Write a C program to check whether a given number is Strong or not using a nested function.[main()-->strong()-->factorial()]
 48. Write a C program to find the largest number in an array using a function.
 49. Write a C program using the function to add two matrices.
 50. Write a C program to find the factorial of a number using recursion.

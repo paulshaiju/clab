@@ -1,7 +1,7 @@
 //program to reverse a string using pointers//
 #include<stdio.h>
 #include<string.h>
-void main()
+int main()
 {
 	char s[50];
 	int len,i;
@@ -13,6 +13,7 @@ void main()
 	{
 	    printf("%c",*(s+i));
 	}
+	
 }
 
 /* OUTPUT
